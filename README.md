@@ -122,8 +122,6 @@ Final Year B.Tech Electrical and Electronics Engineering
 
 Interested in **VLSI, RTL Design, and Digital Design**
 
-GitHub: https://github.com/your-username
-
 ---
 
 ## Future Improvements
